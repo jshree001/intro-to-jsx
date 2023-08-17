@@ -8,6 +8,7 @@ ReactDom.render(
       <li>Chips</li>
       <li>Cakes</li>
       <li>Ice Cream</li>
+      <li>Ice Cream</li>
     </ul>
   </div>,
   document.getElementById("root")
